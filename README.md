@@ -14,7 +14,7 @@
 <hr>
       
 <div align="center">
-  <a href="github.com/ph-bicalho">
+  <a href="https://github.com/ph-bicalho">
   <img height="155px" src="https://github-readme-stats.vercel.app/api?username=ph-bicalho&show_icons=true&theme=dark"></img>
   <img height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ph-bicalho&layout=compact&theme=dark"></img>
   </a>
