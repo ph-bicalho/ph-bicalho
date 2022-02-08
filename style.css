@@ -570,5 +570,8 @@ footer .button:active{
     #Contact{
         padding-top: 1rem;
     }
+    #Portifólio img{
+        height: 120px;
+    }
  
  }
