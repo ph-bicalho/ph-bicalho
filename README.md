@@ -10,6 +10,7 @@
  <a href="https://www.linkedin.com/in/ph-bicalho" target="_blank"><img height= "25px" src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
  <a href="https://discord.com/channels/@ph-bicalho"><img height= "25px" src= "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"</a>
  <a href="mailto:dev.pedrobicalho@gmail.com"><img height= "25px" src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+  <a href="https://ph-bicalho.github.io/ph-bicalho/pt.html"><img height="25px" src="https://user-images.githubusercontent.com/93494879/153499465-626b6254-6790-4aa9-a3fd-8ced4bf4667b.png"></a>
 <div>
 <hr>
       
