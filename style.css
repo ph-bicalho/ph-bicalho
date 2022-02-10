@@ -288,10 +288,12 @@ label span:nth-child(3){
 #Portfolio img{
     width: 100%;
     max-width: 628px;
-    height: fit-content;
+    height: 100% ;
+    max-height: 303px;
    
-    
+    height: fit-content;
 }
+
 #Portfolio .flex-container{
     margin: 20px;
     margin-bottom: 3rem;
@@ -314,17 +316,13 @@ label span:nth-child(3){
     text-align: center;
     align-self: center;
 
-
-
     margin-bottom: 10px;
-    
 }
 
 @media screen and (min-width= 1000px) {
     .button{
         padding: 12px 80px;
     }
-    
 }
 
 
