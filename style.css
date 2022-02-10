@@ -7,11 +7,10 @@
     display: none;
 }
 
-body, html{
+html{
     overflow-x: hidden;
-    scroll-behavior:smooth;
-    
 }
+
 
 /* -----------------GERAL----------------- */
 
@@ -22,8 +21,6 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     display: flex;
     flex-direction: column;
-    
-    position: relative;
 }
 
 h1{
@@ -56,7 +53,8 @@ a:hover{
 .container{
     border: 1px solid #08B8B8;
     padding: 20px;
-    margin-bottom: 10px;   
+    margin-bottom: 10px;
+   
 }
 .flex-container{
     border: 1px solid #08B8B8;
@@ -116,16 +114,19 @@ header, #About, #Contact{
 
  /* -----------------Header----------------- */
 header{
-        
         width: 100%;
         box-sizing: border-box;
 
-    background-color: #05353a77;
+    background-color: #031d20;
 
     display: flex;
     justify-content: space-between;
     align-items: center;
-  
+
+    position: absolute ;
+    top: 0;
+    z-index: 9;
+    
 }
 
 #logo{
@@ -210,9 +211,11 @@ label span:nth-child(3){
 /* ------------------Introducing------------------ */
 
 #Introducing{
-    height: 100vh;
+    height: 100%;
     width: 100%;
     box-sizing: border-box;
+
+    padding: 9rem 0;
 
     display: flex;
     flex-direction: column;
@@ -283,7 +286,9 @@ label span:nth-child(3){
 
 }
 #Portfolio img{
-    width: 60%;
+    width: 100%;
+    max-width: 628px;
+    height: fit-content;
    
     
 }
@@ -507,7 +512,7 @@ footer .button:active{
     background-image: url(EN.png);
 }
 #btn-1{
-    background-image: url(PT.png);
+    background-image: url(pt.png);
 }
 
 #btn-2{
@@ -521,7 +526,7 @@ footer .button:active{
 
 
 /* -----------------------MEDIA------------------- */
-@media screen and (max-width: 864px){
+@media screen and (max-width: 1000px){
     .wrap{
         flex-wrap: wrap;
         
@@ -563,16 +568,11 @@ footer .button:active{
 
 @media screen and (max-width: 370px){
    
-    header, #About, #Contact{
-        padding: 0px 5%;
+    header, #About, #Contact {
+        padding: 0px 0px;
     }
     
     #Contact{
         padding-top: 1rem;
     }
-    #Portifólio img{
-        height: 120px;
-        width: 200px;
-    }
- 
  }
