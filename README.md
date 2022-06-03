@@ -1,4 +1,4 @@
-# Hi there, I’m @ph-bicalho.
+ # Hi there, I’m Pedro Bicalho.
 - 💻 I’m a Full-Stack Developer, with a focus on bringing better user experiences to my applications.
 - 📚 I’m currently learning React.js.
 - 👨‍👩‍👧‍👧 I’m looking to collaborate on Web Development projects.
