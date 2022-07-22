@@ -1,6 +1,6 @@
  # Bem vindo, eu sou Pedro Bicalho!
 - 💻 Desenvolvedor Front-end Júnior.
-- 📚 Estudando React.js.
+- 📚 <a href="https://github.com/ph-bicalho/acompanhamento-estudos">Veja o que estou estudando clicando aqui</a>
 
       
 <div align="center">
